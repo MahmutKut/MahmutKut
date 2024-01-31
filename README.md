@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Mahmut. I am a Mechatronics Engineering student at Marmara University.</h1>
-
+<h1 align="center">Hi 👋, I'm Mahmut</h1>
+<h2 align="center">👨🏻‍💻I am a Mechatronics Engineering student at Marmara University👨🏻‍💻</h2>
 
 - 🌊 I'm working on underwater systems. **TeknoForce**
 
