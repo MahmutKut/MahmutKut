@@ -1,4 +1,4 @@
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">I am a mechatronics engineering student at Marmara University.</h3>
 
 - 🌊 I'm working on underwater systems. **TeknoForce**
 
