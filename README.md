@@ -1,15 +1,15 @@
 ![mQut_github](https://github.com/MahmutKut/MahmutKut/assets/101016134/8b4ac690-5254-46f1-ad17-9c9363d85dbf)
 
-<h1 align="center">Hi 👋, I'm Mahmut</h1>
-<h2 align="center">👨🏻‍💻I am a Mechatronics Engineering student at Marmara University👨🏻‍💻</h2>
+<h1 align="center">   Hi 👋, I'm Mahmut</h1>
+<h2 align="center">  👨🏻‍💻I am a Mechatronics Engineering student at Marmara University👨🏻‍💻</h2>
 
-- 🌊 I'm working on underwater systems. **TeknoForce**
+  - 🌊 I'm working on underwater systems. **TeknoForce**
 
-- 🌾 I worked on agricultural vehicles. **Farmo**
+  - 🌾 I worked on agricultural vehicles. **Farmo**
 
-- 🌱 I’m currently learning **OpenCV,C++,Python,OOP**
+  - 🌱 I’m currently learning **OpenCV,C++,Python,OOP**
 
-- 📫 How to reach me? **kutmahmut37@gmail.com**
+  - 📫 How to reach me? **kutmahmut37@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
