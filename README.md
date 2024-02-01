@@ -1,4 +1,4 @@
-![mqut](https://github.com/MahmutKut/MahmutKut/assets/101016134/64d446cd-e20c-449b-ab26-f12e80f99dd3)
+![github_mqut_V1](https://github.com/MahmutKut/MahmutKut/assets/101016134/9ff5427b-b86e-4b63-af39-59f1a7e83e14)
 
 
 <h1 align="center">Hi 👋, I'm Mahmut</h1>
