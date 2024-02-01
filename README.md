@@ -1,5 +1,4 @@
-![github_mqut_V1](https://github.com/MahmutKut/MahmutKut/assets/101016134/9ff5427b-b86e-4b63-af39-59f1a7e83e14)
-
+![mQut_github](https://github.com/MahmutKut/MahmutKut/assets/101016134/8b4ac690-5254-46f1-ad17-9c9363d85dbf)
 
 <h1 align="center">Hi 👋, I'm Mahmut</h1>
 <h2 align="center">👨🏻‍💻I am a Mechatronics Engineering student at Marmara University👨🏻‍💻</h2>
